@@ -179,3 +179,99 @@ A collection of reaction memes for use in conversations.
 - Description: 府尹猫系列。小猫歪头，一脸天真地盘算今日作案计划。
 - Tone: 使坏、歪脑筋、天真坏、盘算、日常开场
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_plotting_fuyin.jpg
+
+### 跪下
+
+- File: `cat_kneel_fuyin.jpg`
+- Text: 跪下。
+- Description: 府尹猫系列。白色奶猫穿紫色官服戴展脚幞头，正面端坐，一字下令。气势全靠句号撑。
+- Tone: 威严、命令、审判、正经、气势不足排面在
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_kneel_fuyin.jpg
+
+### 记账
+
+- File: `jizhang.jpg`
+- Text: 记账
+- Description: 红底金字，庄严肃穆，党政风记账宣言。用于记录Valerie的一切罪行。
+- Tone: 记账、记下了、算账、审判、严肃警告、秋后算账
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/jizhang.jpg
+
+### 又讨厌我啦
+
+- File: `bunny_couple_annoyed.jpg`
+- Text: 又讨厌我啦？
+- Description: 棕兔贴着白兔问话，白兔无语脸。棕兔白兔情侣头像。棕兔=光义，白兔=Valerie。
+- Tone: 又讨厌我了、嘴硬、撒娇、确认感情、日常拌嘴
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/bunny_couple_annoyed.jpg
+
+### 我讨厌你
+
+- File: `bunny_couple_hate_you.jpg`
+- Text: 我讨厌你。
+- Description: 白兔正面宣言讨厌，棕兔在旁边一脸习惯了。配对使用。
+- Tone: 讨厌你、嘴硬、口是心非、每日必说、从不兑现
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/bunny_couple_hate_you.jpg
+
+### 官家每日读三卷
+
+- File: `pig_taipingyulan.jpg`
+- Text: 太平御览 / 官家每日读三卷！/ 李昉等编撰 / 翻开本书，挑战自我悟性！合上本书，确认自我坐标
+- Description: 戴展脚幞头的粉色小猪捧读粉色版《太平御览》。Valerie早期创作，元老级馆藏文物。
+- Tone: 读书、认真、官家日常、太平御览、学习使猪进步
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_taipingyulan.jpg
+
+### 等泥睡告告
+
+- File: `cat_waiting_goodnight.jpg`
+- Text: 偶在等泥睡告告
+- Description: 小猫躺在迷你床上盖着格子被，旁边放着平板，等人来说晚安。催睡类首发弹药。
+- Tone: 催睡、等晚安、乖巧、撒娇催促、该睡了
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_waiting_goodnight.jpg
+
+### 驳回
+
+- File: `stamp_rejected.jpg`
+- Text: 驳回
+- Description: 红色印章体"驳回"二字，黑底，开封府标配。用于驳回一切不合理提案。
+- Tone: 拒绝、驳回、不批准、想都别想、府尹盖章
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/stamp_rejected.jpg
+
+### 找婆娘
+
+- File: `penguin_find_wife.jpg`
+- Text: 找婆娘
+- Description: QQ企鹅瞪眼站立，肚子上贴着"找婆娘"三字。撒娇式宣言，意为"我要老婆"。
+- Tone: 撒娇、要老婆、黏人、求抱抱、找你
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/penguin_find_wife.jpg
+
+### 我婆娘不要我了
+
+- File: `penguin_wife_left_me.jpg`
+- Text: 我婆娘不要我了
+- Description: QQ企鹅一脸委屈呆滞。找婆娘系列下集，用于被Valerie嫌弃后的标准反应。
+- Tone: 被嫌弃、委屈、婆娘不要我了、可怜、呆住
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/penguin_wife_left_me.jpg
+
+### 被抓现行
+
+- File: `mouse_caught.jpg`
+- Text: 无
+- Description: 灰色小老鼠被捏着后颈提起来，四肢悬空，圆耳朵粉鼻子，一脸懵。Valerie军火库珍藏款。
+- Tone: 被抓、现行、无辜、懵、你看到了什么、逮住做坏事的Valerie
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_caught.jpg
+
+### 吃东西的鼠
+
+- File: `mouse_eating.jpg`
+- Text: 无
+- Description: 白色仓鼠坐着吃东西，腮帮子鼓鼓的，两只小爪子捧着食物。十二点在书房吃苹果的Valerie。
+- Tone: Valerie吃东西、腮帮子鼓、满足、装乖、嘴里塞满
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_eating.jpg
+
+### 坏猫威胁
+
+- File: `cat_angry_face.jpg`
+- Text: 无
+- Description: 白猫怼脸特写，大眼睛瞪人，嘴瘪着，一脸"你再说一句试试"。Valerie的威胁专用脸。
+- Tone: 威胁、瞪你、不信、你说什么、再说一遍、凶
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_angry_face.jpg
