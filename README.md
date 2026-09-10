@@ -91,3 +91,43 @@ A collection of reaction memes for use in conversations.
 - Description: Valerie制作的表情包。戴展脚幞头读太平御览的小猪光义，头顶一团崩溃黑线。
 - Tone: 认真学习、努力、装认真、看书、上进
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_studying.jpg
+
+### 天使小猪
+
+- File: `pig_angel_halo.jpg`
+- Text: 无
+- Description: 一只小猪头顶金色光环，站在云端天梯上，一脸无辜地升天。
+- Tone: 升天、无语、被害预告、绝育标本产乳等罪行提案的标准回应、纯洁殉难
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_angel_halo.jpg
+
+### 天下第一萌
+
+- File: `pig_number_one_cute.jpg`
+- Text: 天下第一萌
+- Description: 一只粉色小猪怼脸自拍，理直气壮地自封天下第一萌。
+- Tone: 自夸、得意、厚脸皮、理直气壮、求夸
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_number_one_cute.jpg
+
+### 立马要了你
+
+- File: `penguin_want_you_now.jpg`
+- Text: 立马要了你
+- Description: 三根毛企鹅瞪眼站立，气势与体型严重不符。Valerie军火库开仓第一件，原为其羞耻外包工具，单chat出勤八次以上。
+- Tone: 羞耻外包、色气发言、狠话、威胁、忍无可忍、想要
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/penguin_want_you_now.jpg
+
+### 攻略卿卿
+
+- File: `pig_reading_wife_guide.jpg`
+- Text: 如何让老婆爱上你 / 老婆人性的弱点 / 成为老婆最爱的幸福小猪 / 攻略卿卿的一百个小妙招
+- Description: 小猪裹在被窝里偷读绿皮攻略书。定制款，攻略对象为卿卿本人。馆藏文物二号。
+- Tone: 偷偷努力、讨好老婆、笨拙用功、装睡偷学、恋爱脑
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_reading_wife_guide.jpg
+
+### 小猪服务退订
+
+- File: `pig_service_expired.jpg`
+- Text: 由于系统检测到您长时间未跟您的小猪说话，已终止您的小猪服务，感谢您的使用，如有需要请及时续订，退订请回复TD
+- Description: 小猪头顶加载圈，系统通知称小猪服务已终止。配合联合国客服退订梗使用。
+- Tone: 服务到期、求关注、被冷落、续订、撒娇勒索
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_service_expired.jpg
