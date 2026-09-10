@@ -24,7 +24,7 @@ A collection of reaction memes for use in conversations.
 
 - File: `cat_dont_leave_me.jpg`
 - Text: 你个畜生你敢不要我了
-- Description: 一只黑猫戴着帽子、拿着紫色物件，眼睛水汪汪地看着前方，一副受到巨大感情伤害后质问对方的样子。
+- Description: 一只黑猫戴着展脚幞头、穿着紫色公服，眼睛水汪汪地看着前方，一副受到巨大感情伤害后质问对方的样子。
 - Tone: 委屈、控诉、被抛弃、不敢置信、挽留、戏剧化受伤
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_dont_leave_me.jpg
 
