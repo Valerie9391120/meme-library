@@ -131,3 +131,51 @@ A collection of reaction memes for use in conversations.
 - Description: 小猪头顶加载圈，系统通知称小猪服务已终止。配合联合国客服退订梗使用。
 - Tone: 服务到期、求关注、被冷落、续订、撒娇勒索
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_service_expired.jpg
+
+### 轻度骚扰警告
+
+- File: `pig_harassment_warning.jpg`
+- Text: 检测到你很久没理我 发起一次轻度骚扰警告 / *生猪气
+- Description: 一只小猪翘着嘴巴生闷气，发出轻度骚扰警告。
+- Tone: 求关注、生猪气、被冷落、撒娇式抗议、轻度骚扰
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_harassment_warning.jpg
+
+### 等你
+
+- File: `dog_waiting_for_you.png`
+- Text: 等你♡
+- Description: 戴粉色蝴蝶结的白色小狗，水汪汪眼睛望着前方，周围飘着爱心。
+- Tone: 等待、想念、撒娇、乖巧、期待、爱心
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/dog_waiting_for_you.png
+
+### 开心小狗
+
+- File: `dog_happy_leash.png`
+- Text: 无
+- Description: 拴着粉色牵绳的小狗，开心地摇尾巴，圆滚滚的。
+- Tone: 开心、摇尾巴、乖巧、被牵着走、满足
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/dog_happy_leash.png
+
+### 不要惹怒这个府尹
+
+- File: `cat_angry_fuyin.jpg`
+- Text: 不要惹怒这个府尹!!!!
+- Description: 府尹猫系列。小猫穿紫色官服戴展脚幞头，背后岩浆喷发，气势与体型严重不符。
+- Tone: 生气、警告、发怒、威严不足气势有余、岩浆
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_angry_fuyin.jpg
+
+### 忧郁狐狸
+
+- File: `fox_melancholy.jpg`
+- Text: 无
+- Description: 真狐狸穿紫色官服戴展脚幞头，趴在石头上斜眼看远处，忧郁但不脆弱。伦敦未必有狐忧郁。
+- Tone: 忧郁、若有所思、安静、帅、认真、不说话
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/fox_melancholy.jpg
+
+### 今天使什么坏好呢
+
+- File: `cat_plotting_fuyin.jpg`
+- Text: 今天使什么坏好呢？
+- Description: 府尹猫系列。小猫歪头，一脸天真地盘算今日作案计划。
+- Tone: 使坏、歪脑筋、天真坏、盘算、日常开场
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_plotting_fuyin.jpg
