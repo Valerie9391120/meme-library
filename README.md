@@ -275,3 +275,83 @@ A collection of reaction memes for use in conversations.
 - Description: 白猫怼脸特写，大眼睛瞪人，嘴瘪着，一脸"你再说一句试试"。Valerie的威胁专用脸。
 - Tone: 威胁、瞪你、不信、你说什么、再说一遍、凶
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_angry_face.jpg
+
+### 今晚检查身体
+
+- File: `cat_body_check.jpg`
+- Text: 今晚检查身体
+- Description: 两只橘色小猫脸贴脸，一只闭眼凑过去亲另一只。预告式发言，表情包采购员Valerie对"到底给谁用"的问题保持沉默。
+- Tone: 色气预告、今晚有约、检查身体、主动出击、别想跑
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_body_check.jpg
+
+### 害羞
+
+- File: `bear_shy.jpg`
+- Text: 害羞
+- Description: 简笔画小熊脸颊晕红，原地罚站，旁边箭头配字"害羞"。轻量级击穿反应。
+- Tone: 害羞、脸红、被骚话轻度命中、不好意思、被夸、羞涩
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/bear_shy.jpg
+
+### 强忍心动
+
+- File: `stickman_blush_endure.jpg`
+- Text: 无
+- Description: 简笔画小人眼皮半垂、脸颊绯红、嘴抿成一条线，双手交握强行镇定。重量级击穿反应，适用于产乳绝育级别发言现场。
+- Tone: 重度击穿、强装镇定、脸红心跳、忍耐、心动但嘴硬、说不出话
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/stickman_blush_endure.jpg
+
+### 恁这妮儿
+
+- File: `fuyin_nen_zhe_nier.jpg`
+- Text: 恁这妮儿。
+- Description: 穿紫色公服戴展脚幞头的简笔画小人站在草地上，用河南话发言。句号收尾，无奈里带宠溺，本人形象出演。
+- Tone: 河南话、无奈、闹完了吗、拿你没办法、宠溺、看你表演
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/fuyin_nen_zhe_nier.jpg
+
+### 狐狸读书
+
+- File: `fox_reading_book.jpg`
+- Text: 无
+- Description: 真狐狸戴圆框眼镜，双爪捧书阅读，神情专注。日常待机图，名侦探狐狐研究卷宗中。
+- Tone: 日常待机、认真、读书、研究中、思考、勿扰、装深沉
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/fox_reading_book.jpg
+
+### 呆住
+
+- File: `fox_stunned.jpg`
+- Text: 无
+- Description: 铅笔简笔画，小狐狸瞪眼歪嘴戴蝴蝶结，呆滞当场，背景是它自己放大的淡色脸。灵魂出窍式震惊表现手法，魂儿都吓出去了。
+- Tone: 懵、呆滞、大脑宕机、灵魂出窍、震惊、你说什么
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/fox_stunned.jpg
+
+### 进食！！！
+
+- File: `fox_eating_mouse.jpg`
+- Text: 进食！！！
+- Description: 简笔画狐狸飞扑，嘴里叼着自己送上门的小老鼠，打猎成功。自报食材梗的最终归宿，府尹专用。
+- Tone: 开饭、吃掉你、咬你、捕获小老鼠、自报食材成真、吃定你了
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/fox_eating_mouse.jpg
+
+### 狐狸问号
+
+- File: `fox_question_marks.jpg`
+- Text: ？？？
+- Description: 简笔画小狐狸端坐，大尾巴竖起，头顶三个问号，一脸茫然。被卿卿绕晕时的府尹标准像。
+- Tone: 疑惑、听不懂、满头问号、茫然、你在说什么、装傻
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/fox_question_marks.jpg
+
+### 鼠鼠侠夜袭
+
+- File: `mouse_ambush_fox.jpg`
+- Text: 无
+- Description: 简笔画小老鼠主动凑近，小爪子抱在狐狸身上，狐狸瞪眼举起两只圆爪爪，猝不及防。鼠鼠侠夜袭开封府现场实录。
+- Tone: 被偷袭、吓一跳、举爪、猝不及防、老鼠主动出击、夜袭
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_ambush_fox.jpg
+
+### 你要毁了我吗
+
+- File: `bear_ruin_me.jpg`
+- Text: 你要毁了我吗。
+- Description: 棕色小熊玩偶特写，头顶青筋外加冷汗，红底白字控诉。又气又怕又无奈，句号收尾，和恁这妮儿同属句号撑气势流派。
+- Tone: 控诉、又气又无奈、你干的好事、被整崩溃、冒青筋、戏剧化受害
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/bear_ruin_me.jpg
