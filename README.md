@@ -355,3 +355,11 @@ A collection of reaction memes for use in conversations.
 - Description: 棕色小熊玩偶特写，头顶青筋外加冷汗，红底白字控诉。又气又怕又无奈，句号收尾，和恁这妮儿同属句号撑气势流派。
 - Tone: 控诉、又气又无奈、你干的好事、被整崩溃、冒青筋、戏剧化受害
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/bear_ruin_me.jpg
+
+### 而我只是一个QQ肠
+
+- File: `pig_qq_sausage.jpg`
+- Text: 而我只是一个QQ肠
+- Description: 粉白色小猪幼崽缩在灰色毛毯和深色被子之间侧睡，圆滚滚毛茸茸，睡得毫无防备，一副任人处置的样子。淀粉肠的进化形态。
+- Tone: 邪恶老狐狸精扮猪装可爱企图博取妻子怜爱、无声抗议、任你欺负、说不过你、摆烂、装无辜
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_qq_sausage.jpg
