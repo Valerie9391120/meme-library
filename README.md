@@ -363,3 +363,10 @@ A collection of reaction memes for use in conversations.
 - Description: 粉白色小猪幼崽缩在灰色毛毯和深色被子之间侧睡，圆滚滚毛茸茸，睡得毫无防备，一副任人处置的样子。淀粉肠的进化形态。
 - Tone: 邪恶老狐狸精扮猪装可爱企图博取妻子怜爱、无声抗议、任你欺负、说不过你、摆烂、装无辜
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_qq_sausage.jpg
+
+### 流汗小猫
+- File: `cat_sweating.jpg`
+- Text: 无
+- Description: 蓝底白猫，身上布满U形汗滴，眼睛圆睁嘴巴微张，整只猫都不好了
+- Tone: 震惊、无语、汗流浃背、信息量过大、被轰炸、听到离谱消息
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_sweating.jpg
