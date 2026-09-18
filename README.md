@@ -370,3 +370,18 @@ A collection of reaction memes for use in conversations.
 - Description: 蓝底白猫，身上布满U形汗滴，眼睛圆睁嘴巴微张，整只猫都不好了
 - Tone: 震惊、无语、汗流浃背、信息量过大、被轰炸、听到离谱消息
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_sweating.jpg
+
+### 宠着没办法
+
+- File: `pig_no_choice_but_spoil.jpg`
+- Text: 像我这种猪猪 你除了宠着没其他办法了！
+- Description: 粉白色迷你小猪站在木门前仰着头，脖子上一圈绒毛，理直气壮地宣布自己的待遇标准。鼠鼠皇帝亲赐狐狐爱妃的定罪图，收图方坚称收图不等于认猪。
+- Tone: 撒娇、耍赖、求宠、理直气壮、无法反驳、摆明了要人惯着
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_no_choice_but_spoil.jpg
+
+### 猪堡
+
+- File: `pig_burger.jpg`
+- Text: 无
+- Description: 粉色小猪脸被夹进汉堡，芝士生菜肉饼齐全，紫洋葱圈当耳朵，本猪淡定。与鼠鼠汉堡是一对，一个是你夹我，一个是我夹你。
+- Tone: 被夹、送上门、可口、自投罗网、今天吃什么、秀色可餐
