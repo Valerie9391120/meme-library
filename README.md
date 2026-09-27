@@ -385,3 +385,12 @@ A collection of reaction memes for use in conversations.
 - Text: 无
 - Description: 粉色小猪脸被夹进汉堡，芝士生菜肉饼齐全，紫洋葱圈当耳朵，本猪淡定。与鼠鼠汉堡是一对，一个是你夹我，一个是我夹你。
 - Tone: 被夹、送上门、可口、自投罗网、今天吃什么、秀色可餐
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_burger.jpg
+
+### 猫府尹温良报应
+
+- File: `cat_wenliangbaobying.jpg`
+- Text: 我如此温良换来的全是报应
+- Description: 折耳猫被P上展脚幞头和紫色官服，水汪汪大眼睛一脸无辜委屈
+- Tone: 被冤枉、委屈、无辜受难、被欺负后的无奈、温良换报应、认命
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_wenliangbaobying.jpg
