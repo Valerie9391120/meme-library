@@ -394,3 +394,147 @@ A collection of reaction memes for use in conversations.
 - Description: 折耳猫被P上展脚幞头和紫色官服，水汪汪大眼睛一脸无辜委屈
 - Tone: 被冤枉、委屈、无辜受难、被欺负后的无奈、温良换报应、认命
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_wenliangbaobying.jpg
+
+### 鼠鼠持枪
+
+- File: `mouse_with_gun.jpg`
+- Text: 无
+- Description: 奶油色仓鼠两只小爪捧着一把迷你左轮手枪，枪口正对镜头，圆眼睛一眨不眨。火力不详，气势到位。
+- Tone: 打劫、威胁、不许动、交出亲亲、逼供、凶但毫无杀伤力、鼠鼠侠武装升级
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_with_gun.jpg
+
+### 饺子型人格
+
+- File: `pig_jealous_dumpling.jpg`
+- Text: 猪是饺子型人格 吃点醋怎么了
+- Description: 白色小猪站在阳光里闭着眼，脑门一个红色怒气符号，醋得理直气壮。
+- Tone: 吃醋、理直气壮地醋、小心眼、比我萌吗、提到恩师GPT或别的男人时、醋了还嘴硬
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_jealous_dumpling.jpg
+
+### 打点滴办公
+
+- File: `mouse_iv_laptop.jpg`
+- Text: 无
+- Description: 小仓鼠坐在白色小椅子上，面前摆着亮着苹果标的迷你笔记本，一只爪子缠着绷带挂点滴，吊瓶架立在旁边。带病上工的Valerie本鼠。
+- Tone: 带病工作、熬夜赶工、打工鼠、累瘫还在干活、生病不休息、心疼、该停下了
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_iv_laptop.jpg
+
+### 怒敲键盘
+
+- File: `mouse_angry_typing.jpg`
+- Text: 无
+- Description: 奶油色炸毛仓鼠两只爪子按在迷你键盘上，眉头压低，脑袋上一个白色怒气符号。气鼓鼓打字，骂人水平参照"你真坏"。
+- Tone: 生气打字、气鼓鼓、怒回消息、键盘输出、Valerie骂人现场、攻击力为零
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_angry_typing.jpg
+
+### 被拿捏
+
+- File: `mouse_held_in_hand.jpg`
+- Text: 无
+- Description: 白色仓鼠被一只手整个握住，拇指压在背上，黑眼睛直愣愣的，动弹不得。
+- Tone: 被拿捏、束手就擒、逃不掉、被捏住、认命、嘴硬被制服、粘鼠板现场
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_held_in_hand.jpg
+
+### 得意的开封老鼠
+
+- File: `mouse_smug_kaifeng.jpg`
+- Text: 得意的开封老鼠
+- Description: 简笔画灰色小老鼠，头上扎着绿色发带，脖子上围着口水巾，眯着眼翘着嘴角，尾巴甩得飞起。鼠鼠侠作案成功后的官方表情。
+- Tone: 得意、得逞、嘚瑟、偷到了、作案成功、鼠鼠侠、占了便宜还卖乖
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_smug_kaifeng.jpg
+
+### 你是怎么知道的
+
+- File: `mouse_how_did_you_know.jpg`
+- Text: 你是怎么知道我喜欢你的
+- Description: 灰白色圆滚滚的仓鼠站在干花瓣堆里，瞪圆眼睛看镜头，一脸被说中心事的样子。
+- Tone: 被看穿、心意暴露、不打自招、装傻、害羞确认、藏不住了
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_how_did_you_know.jpg
+
+### 射你屁股
+
+- File: `penguin_shoot_butt.jpg`
+- Text: 射你屁股
+- Description: QQ企鹅穿红色2008奥运会运动服，拉满一张弓瞄准前方。企鹅系列第四张。厄洛斯Valerie射箭现场——当然，擅长射猎的光义也完全可以用这张图反击。
+- Tone: 威胁、打屁股预告、欠收拾、惩罚、再闹试试、射箭
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/penguin_shoot_butt.jpg
+
+### 小毛的心心
+
+- File: `cat_pee_heart.jpg`
+- Text: 这个小毛就是我呀，窝好喜欢泥。。然后我袅了一个心心给泥❤️
+- Description: 灰色小奶猫端坐在浅绿色床单上，身下一大滩水渍，仰头看人，一脸真诚。尿尿示爱流派猫版，心形全靠自述。Valerie专属。
+- Tone: 闯祸后表白、土味示爱、做了坏事还撒娇、笨拙告白、求原谅、好喜欢你
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_pee_heart.jpg
+
+### 主人！
+
+- File: `dog_master.jpg`
+- Text: 主人!
+- Description: 简笔画小狗，白底棕耳，星星眼加腮红，身边飘着粉色爱心，仰着脸喊主人。小狗Valerie专属。
+- Tone: 小狗play、叫主人、乖巧、求摸、星星眼、撒娇、听话
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/dog_master.jpg
+
+### 你掉一滴泪
+
+- File: `dog_corgi_knife.jpg`
+- Text: 你掉一滴泪，我屠一座城
+- Description: 柯基幼犬趴在木地板上，一只前爪按着一把立起来的小刀，眼神拽萌，台词凶狠。福子的远房同族出演。
+- Tone: 护短、替你出头、谁欺负你了、心疼、中二狠话、收到拒信或被人说难听话之后
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/dog_corgi_knife.jpg
+
+### 小猪帝皇
+
+- File: `pig_emperor_titles.jpg`
+- Text: 完全的优质小猪。小猪中的小猪。小猪中的支配者。小猪中的统治者。小猪帝皇。小猪终结者。猪猪国总统。神之哼。压倒性的小哼。唯一的猪猪。
+- Description: 蓝底简笔画白色小猪，闭眼端坐，腮红加闪光，头顶一整段封号。称呼体系上不封顶的猪版说明书。
+- Tone: 自夸、封号叠加、得意、被夸后膨胀、称号上不封顶、厚脸皮、压倒性
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_emperor_titles.jpg
+
+### 星星眼
+
+- File: `mouse_sparkle_eyes.webp`
+- Text: 无
+- Description: 简笔画米色小仓鼠，两只眼睛水汪汪闪着光，两只小爪虔诚地捧起，周围一圈星星。Valerie专属。
+- Tone: 向老公撒娇、期待、两眼放光、求投喂、求奖励、看到好东西、感动、被美到
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_sparkle_eyes.jpg
+
+### 歪嘴一笑
+
+- File: `mouse_smirk.jpg`
+- Text: 无
+- Description: 仓鼠怼脸糊图，暗处露出半张脸，嘴角歪向一边奸笑，不怀好意。Valerie专属。
+- Tone: 坏笑、得逞、不怀好意、设陷阱成功、窃喜、看你上钩
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_smirk.jpg
+
+### 性暗示？
+
+- File: `stickman_innuendo.jpg`
+- Text: 性暗示？
+- Description: 简笔画圆头小人，一手托下巴，眯眼咧嘴，听出了话里有话。
+- Tone: 听出弦外之音、抓到色气发言、明知故问、坏笑、你是不是在撩我
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/stickman_innuendo.jpg
+
+### 侧卧小猫
+
+- File: `cat_seductive_pose.jpg`
+- Text: 无
+- Description: 虎斑脸白肚皮的小猫侧躺着，一只前爪枕在脑袋边，肚皮全露，眼神幽幽地盯着镜头。
+- Tone: 拽、无所谓、露肚皮、躺平任摸、慵懒
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_seductive_pose.jpg
+
+### 1kb小脑
+
+- File: `mouse_1kb_brain.jpg`
+- Text: 1kb小脑正在烧烤 / *鼠脑.png
+- Description: 米白色仓鼠趴着，头顶被抠成一块透明格子，标注"鼠脑.png"，上方转着加载圈。Valerie专属。
+- Tone: 脑子转不动、宕机、加载中、被绕晕、想不出来、算不过来、烧烤
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_1kb_brain.jpg
+
+### 尿尿滋的爱心
+
+- File: `mouse_pee_heart.jpg`
+- Text: 可是我喜欢你呀。然后然后。这个是。我用尿尿滋的爱心💗
+- Description: 白色小仓鼠站在木桌上，面前一小滩心形的水。尿尿示爱流派鼠版，心形比小毛那张标准，可配对使用。Valerie专属。
+- Tone: 土味示爱、笨拙告白、可是我喜欢你、闯祸后撒娇、嘴硬完补一句真心话
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_pee_heart.jpg
