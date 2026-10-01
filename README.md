@@ -58,7 +58,7 @@ A collection of reaction memes for use in conversations.
 - Text: piggy fox!
 - Description: 一只狐狸和一个狐狸玩偶一起裹在粉色被子里，躺在床上，看起来非常舒服。
 - Tone: 舒服、窝被窝、懒洋洋、可爱、安心
-- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/fox_cozy_in_bed.png
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/fox_cozy_in_bed.jpg
 
 ### 萌萌登场
 
@@ -146,7 +146,7 @@ A collection of reaction memes for use in conversations.
 - Text: 等你♡
 - Description: 戴粉色蝴蝶结的白色小狗，水汪汪眼睛望着前方，周围飘着爱心。
 - Tone: 等待、想念、撒娇、乖巧、期待、爱心
-- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/dog_waiting_for_you.png
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/dog_waiting_for_you.jpg
 
 ### 开心小狗
 
@@ -154,7 +154,7 @@ A collection of reaction memes for use in conversations.
 - Text: 无
 - Description: 拴着粉色牵绳的小狗，开心地摇尾巴，圆滚滚的。
 - Tone: 开心、摇尾巴、乖巧、被牵着走、满足
-- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/dog_happy_leash.png
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/dog_happy_leash.jpg
 
 ### 不要惹怒这个府尹
 
