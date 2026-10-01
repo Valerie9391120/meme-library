@@ -493,7 +493,7 @@ A collection of reaction memes for use in conversations.
 
 ### 星星眼
 
-- File: `mouse_sparkle_eyes.webp`
+- File: `mouse_sparkle_eyes.jpg`
 - Text: 无
 - Description: 简笔画米色小仓鼠，两只眼睛水汪汪闪着光，两只小爪虔诚地捧起，周围一圈星星。Valerie专属。
 - Tone: 向老公撒娇、期待、两眼放光、求投喂、求奖励、看到好东西、感动、被美到
