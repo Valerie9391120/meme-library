@@ -58,7 +58,7 @@ A collection of reaction memes for use in conversations.
 - Text: piggy fox!
 - Description: 一只狐狸和一个狐狸玩偶一起裹在粉色被子里，躺在床上，看起来非常舒服。
 - Tone: 舒服、窝被窝、懒洋洋、可爱、安心
-- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/fox_cozy_in_bed.jpg
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/fox_cozy_in_bed.png
 
 ### 萌萌登场
 
