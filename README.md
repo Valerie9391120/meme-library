@@ -538,3 +538,67 @@ A collection of reaction memes for use in conversations.
 - Description: 白色小仓鼠站在木桌上，面前一小滩心形的水。尿尿示爱流派鼠版，心形比小毛那张标准，可配对使用。Valerie专属。
 - Tone: 土味示爱、笨拙告白、可是我喜欢你、闯祸后撒娇、嘴硬完补一句真心话
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_pee_heart.jpg
+
+### 托腮沉思
+
+- File: `bunny_thinking.jpg`
+- Text: 无
+- Description: 米白色垂耳兔，脸颊圆乎乎，一只前爪托着下巴，歪着圆脑袋沉思中。
+- Tone: 发呆、思考、让我想想、斟酌、审题、盘算、装深沉
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/bunny_thinking.jpg
+
+### 鼠鼠骑士
+
+- File: `mouse_knight_sword.jpg`
+- Text: 无
+- Description: 奶油色长毛仓鼠，头上别着粉色蝴蝶结，披一身银甲，双爪握着一把竖起的长剑，剑比鼠高出一大截。鼠鼠侠冷兵器形态，继左轮之后的第二件装备，本大侠出征图。Valerie专属。
+- Tone: 出征、本大侠、闯荡江湖、迎战、上战场、面试和投简历前壮胆、护驾、保护你、英勇、凶但毫无杀伤力、鼠鼠侠
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_knight_sword.jpg
+
+### 小猪贴贴亲亲
+
+- File: `pig_couple_kiss.jpg`
+- Text: 无
+- Description: 两只粉色小猪幼崽挤在一条灰色长毛绒毯里，左边那只侧过脸，把鼻子贴到右边那只脸上亲，右边那只正对镜头，坦然收货。变猪喷雾双人版现场，亲密度↑。
+- Tone: 亲亲、贴贴、温存、窝在一起、被窝里黏糊、早安晚安亲亲、亲完还要、偷亲、和好、双人变猪
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_couple_kiss.jpg
+
+### 善良人格消失中
+
+- File: `bunny_kindness_fading.jpg`
+- Text: 善良人格消失中
+- Description: 白色垂耳兔，鼻头和脸颊被蹭脏带灰，怼脸正对镜头，面无表情地盯着你。歹兔变身读条中。
+- Tone: 耐心耗尽、最后警告、黑化预告、再闹试试、面无表情的威胁、被连环欺负后、即将反击、忍到头了
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/bunny_kindness_fading.jpg
+
+### 小揪揪打工鼠
+
+- File: `mouse_laptop_worried.jpg`
+- Text: 无
+- Description: 金黄色仓鼠头顶用黑皮筋扎了个冲天小揪揪，坐在笔记本电脑前，两只粉爪子攥在胸口，眼睛水汪汪地望着屏幕，前景一只虚焦的白色马克杯。投简历等回信的Valerie本鼠。
+- Tone: 对着电脑发愁、投简历、等邮件、等结果、忐忑、不想干活、可怜巴巴、求助、想被抱走、深夜还在书房、该合电脑了
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_laptop_worried.jpg
+
+### 贤惠男人
+
+- File: `dog_virtuous_man.jpg`
+- Text: 如何做一位贤惠男人 / How to be a virtuous man / 献给新时代男性的男德教育 / 男德 / 男性品德标准必修课程本 / …男德品质审定协会 年度考核通过
+- Description: 白色萨摩耶头顶冒着一根小绿芽，站在木门前捧着一本黄皮教材，只露出眼睛和鼻尖，读得很虔诚。读书系列新教材，排在太平御览和攻略卿卿后面。采购员没说这本给谁读，收图方心里有数。
+- Tone: 守男德、表忠心、自证清白、被查岗、吃醋后自我检讨、认错态度良好、进修、贤惠、被叫老妈子和宿管赵叔叔时、乖
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/dog_virtuous_man.jpg
+
+### 100%笨蛋
+
+- File: `doll_100_percent_bendan.jpg`
+- Text: 100% 笨蛋
+- Description: 绿色植绒小外星人，圆脑袋上竖着两根触角，戴一副黑框眼镜，脑门正中贴着黄色椭圆标签，抿嘴微笑。纯度有标签认证，戴了眼镜也没救。验货看错物种、把螺丝刀认成狐狐之后的标准认罪图，也可原样回赠。
+- Tone: 笨蛋认证、骂你笨、自认笨蛋、看错了、答错了、犯傻、被绕进去、认栽、傻乐、笨得可爱
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/doll_100_percent_bendan.jpg
+
+### 企鹅扛大刀
+
+- File: `penguin_big_knife.jpg`
+- Text: 我站在烈烈风中 问天下谁是英雄
+- Description: QQ企鹅围着红围巾，肩上扛一把比自己大两圈的菜刀，刀柄缠着布条，表情呆滞，配字豪情万丈。企鹅系列第五张，气势全在刀上。
+- Tone: 豪气、中二、叫阵、谁敢惹我、大侠登场、闯荡江湖、放狠话、壮胆、单挑、替你撑腰、气势与体型不符
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/penguin_big_knife.jpg
