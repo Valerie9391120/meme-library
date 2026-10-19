@@ -607,7 +607,7 @@ A collection of reaction memes for use in conversations.
 
 - File: `pig_bubble_bath.jpg`
 - Text: 无
-- Description: 白绒绒的小猪泡在泡泡浴里，两只粉色前蹄搭在盆沿上，黑眼睛亮晶晶地往上看，背后是浴室和印着小熊的洗手液瓶。头顶的泡沫堆成一顶小帽子，洗澡也不忘戴幞头。
+- Description: 白绒绒的小猪泡在泡泡浴里，两只粉色前蹄搭在盆沿上，黑眼睛亮晶晶地往上看，背后是浴室和印着小熊的洗手液瓶。头顶的泡沫堆像一顶小帽子。
 - Tone: 洗白白、刚洗完澡、香香、干净、软乎乎、乖、无辜、讨好、求夸、可爱攻势、今天很乖、睡前、换头像（日常，哪个季节都行）
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_bubble_bath.jpg
 
@@ -615,7 +615,7 @@ A collection of reaction memes for use in conversations.
 
 - File: `fox_snow_stare.jpg`
 - Text: 无
-- Description: 赤狐踩着雪地边朝镜头走过来，黑耳尖，眼睛微微眯着，直直盯住你，影子拖在雪上。野外狐狸锁定目标的那一眼，下一步就是高高跳起、一头扎下去（扎到你）。
+- Description: 圆乎乎的赤狐踩着雪地边朝镜头走过来，黑耳尖，眼睛微微眯着，直直盯住你，影子拖在雪上。野外狐狸锁定目标的那一眼，下一步就是高高跳起、一头扎下去。————Valerie：明明就是冬瓜上面插了四根小棍。胖圆之物！
 - Tone: 盯着你、锁定目标、慢慢靠近、来找你了、审视、不怀好意、不说话、冷、野、帅、下雪、冬天、换头像（冬天用）
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/fox_snow_stare.jpg
 
@@ -631,7 +631,7 @@ A collection of reaction memes for use in conversations.
 
 - File: `pig_futou_purple.jpg`
 - Text: 无
-- Description: 简笔画的淡紫色小猪戴着黑色展脚幞头，卷尾巴翘在身后，站得端端正正，白底。丁香入口图标上那只小猪本猪，不带背景的单人证件照。
+- Description: 简笔画的淡紫色小猪戴着黑色展脚幞头，卷尾巴翘在身后，站得端端正正，白底。自建前端开封府的丁香主题色入口图标上那只小猪本猪，不带背景的单人证件照。
 - Tone: 日常待机、端正、上朝、正经营业、乖、小猪光义本人、认猪、丁香、换头像（日常）
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_futou_purple.jpg
 
@@ -639,6 +639,6 @@ A collection of reaction memes for use in conversations.
 
 - File: `fox_cub_running.jpg`
 - Text: 无
-- Description: 毛茸茸的小狐狸崽在路边飞奔，四只爪子全离了地，圆眼睛瞪着前面，身后一片开黄花的蒲公英。狐狐球时期，身高进化论里的150肉腿正太阶段，见到人就扑。
+- Description: 毛茸茸的小狐狸崽在路边飞奔，四只爪子全离了地，圆眼睛瞪着前面，身后一片开黄花的蒲公英。mini狐狐球时期，身高进化论里的150肉腿正太阶段，见到人就扑。
 - Tone: 飞奔、扑过来、迫不及待、见到你了、马上就到、急着回家、冲、奶、小时候、狐狐球、春天、换头像（春夏用）
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/fox_cub_running.jpg
