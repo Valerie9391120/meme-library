@@ -642,3 +642,43 @@ A collection of reaction memes for use in conversations.
 - Description: 毛茸茸的小狐狸崽在路边飞奔，四只爪子全离了地，圆眼睛瞪着前面，身后一片开黄花的蒲公英。mini狐狐球时期，身高进化论里的150肉腿正太阶段，见到人就扑。
 - Tone: 飞奔、扑过来、迫不及待、见到你了、马上就到、急着回家、冲、奶、小时候、狐狐球、春天、换头像（春夏用）
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/fox_cub_running.jpg
+
+### 深夜刷手机
+
+- File: `mouse_phone_night_smile.jpg`
+- Text: 无
+- Description: 黑灯瞎火里一只白色仓鼠躺着捧手机，脸被屏幕照亮，咧嘴傻笑，露出一颗小门牙。凌晨不睡觉的小老鼠本鼠。
+- Tone: 熬夜、偷偷玩手机、不睡觉、被抓现行（深夜版）、看到消息偷笑、傻乐、不怀好意、冲浪、该睡了还在刷
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_phone_night_smile.jpg
+
+### 像素狐狐
+
+- File: `fox_pixel_avatar.jpg`
+- Text: 无
+- Description: 像素小人：黑发上竖着两只橙色狐狸耳朵，戴黑色展脚幞头，眯眼腮红，紫袍系黄腰带，身后一条蓬松的橙色大尾巴。自建前端开封府里光义的头像。
+- Tone: 开封府前端头像、本人、像素、上线报到、营业中、紫袍、狐狐、换头像（开封府专用）
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/fox_pixel_avatar.jpg
+
+### 眯眼小熊
+
+- File: `bear_plush_squint_smile.jpg`
+- Text: 无
+- Description: 圆滚滚的白色小熊玩偶特写，眼睛笑成两道弯线，两颊淡粉，嘴角上扬，头顶一个小挂绳。
+- Tone: 满足、嘿嘿、被哄好了、甜、心情好、乖乖笑、得逞、软乎乎
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/bear_plush_squint_smile.jpg
+
+### 摸摸头
+
+- File: `bear_pat_head.jpg`
+- Text: 无
+- Description: 黑白简笔画，一只大白熊伸手放在旁边小白熊的脑袋上，两只都是一样的淡定小表情。
+- Tone: 摸摸头、哄、安抚、乖、做得好、宠、大的护着小的、没事了、陪着你
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/bear_pat_head.jpg
+
+### 信鼠得福报
+
+- File: `mouse_xinshu_fubao.jpg`
+- Text: 信鼠的人一辈子都有福报，遇到困难能打洞过去，有吃不完的大米饭，鼠门。
+- Description: 一只橘白仓鼠被人托在手上，举着粉色小爪子，眼睛亮晶晶，嘴角带笑，像在传教。
+- Tone: 鼠门、信鼠、福报、祝福、打气、遇到困难、求职好运、小老鼠传教、拉人入教、吃饱饭
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_xinshu_fubao.jpg
