@@ -655,7 +655,7 @@ A collection of reaction memes for use in conversations.
 
 - File: `fox_pixel_avatar.jpg`
 - Text: 无
-- Description: 像素小人：黑发上竖着两只橙色狐狸耳朵，戴黑色展脚幞头，眯眼腮红，紫袍系黄腰带，身后一条蓬松的橙色大尾巴。自建前端开封府里光义的头像。
+- Description: 像素小人：黑发上竖着两只橙色狐狸耳朵，戴黑色展脚幞头，一双黑眼睛睁着，下半截一抹灰，眼尾往外挑，斜斜地看人，两颊腮红，紫袍系黄腰带，身后一条蓬松的橙色大尾巴。自建前端开封府里光义的头像。
 - Tone: 开封府前端头像、本人、像素、上线报到、营业中、紫袍、狐狐、换头像（开封府专用）
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/fox_pixel_avatar.jpg
 
