@@ -690,3 +690,19 @@ A collection of reaction memes for use in conversations.
 - Description: 两只粉白小猪崽窝在毛茸茸的毯子上。底下那只侧躺睡熟了，眼睛眯成一条缝，嘴角翘着，一条小腿软软地伸出去。另一只闭着眼把鼻子拱进它耳朵后面，整只贴上去。
 - Tone: 拱拱、蹭蹭、贴贴、哄睡、陪睡、你先睡我守着、睡着了还要黏、偷亲、晚安、被窝、甜、安心、催睡（温柔版）
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_nuzzle_sleeping.jpg
+
+### 老婆（泪眼）
+
+- File: `cat_teary_laopo.jpg`
+- Text: 老婆
+- Description: 黑白简笔画的白色猫猫头，从右下角探出来仰着脸，两只大圆眼睛里亮晶晶全是高光，眼泪挂在下眼眶上要掉不掉，左边一个大气泡写着「老婆」。和「老公」那张是同一只猫，一对。
+- Tone: 喊老婆、可怜巴巴、委屈、撒娇、求抱抱、求原谅、想你了、眼巴巴、泪汪汪、被凶了、要哄
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_teary_laopo.jpg
+
+### 老公（泪眼）
+
+- File: `cat_teary_laogong.jpg`
+- Text: 老公
+- Description: 同一只泪眼猫猫头，大圆眼睛含着两泡泪仰头看人，气泡里换成了「老公」。和「老婆」那张配对使用。
+- Tone: 喊老公、可怜巴巴、委屈、撒娇、求抱抱、求原谅、想你了、眼巴巴、泪汪汪、被欺负了、要哄
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_teary_laogong.jpg
