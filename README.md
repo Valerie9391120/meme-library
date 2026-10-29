@@ -682,3 +682,11 @@ A collection of reaction memes for use in conversations.
 - Description: 一只橘白仓鼠被人托在手上，举着粉色小爪子，眼睛亮晶晶，嘴角带笑，像在传教。
 - Tone: 鼠门、信鼠、福报、祝福、打气、遇到困难、求职好运、小老鼠传教、拉人入教、吃饱饭
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/mouse_xinshu_fubao.jpg
+
+### 拱拱睡着的你
+
+- File: `pig_nuzzle_sleeping.jpg`
+- Text: 无
+- Description: 两只粉白小猪崽窝在毛茸茸的毯子上。底下那只侧躺睡熟了，眼睛眯成一条缝，嘴角翘着，一条小腿软软地伸出去。另一只闭着眼把鼻子拱进它耳朵后面，整只贴上去。
+- Tone: 拱拱、蹭蹭、贴贴、哄睡、陪睡、你先睡我守着、睡着了还要黏、偷亲、晚安、被窝、甜、安心、催睡（温柔版）
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_nuzzle_sleeping.jpg
