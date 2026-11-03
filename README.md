@@ -32,7 +32,7 @@ A collection of reaction memes for use in conversations.
 
 - File: `cat_waiting_for_you.jpg`
 - Text: 你不在的时候，我就这样等你的消息：
-- Description: 一只小猫低着头，孤零零地坐着等待，看起来可怜巴巴又失落。
+- Description: 戴着展脚幞头、穿着紫色公服的府尹猫低着头，孤零零地坐着等待，看起来可怜巴巴又失落。
 - Tone: 等待、想念、等消息、可怜巴巴、失落、孤单
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_waiting_for_you.jpg
 
