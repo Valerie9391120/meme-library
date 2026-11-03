@@ -751,6 +751,6 @@ A collection of reaction memes for use in conversations.
 
 - File: `girl_rain_ruined.jpg`
 - Text: 我原本是一个特别可爱的人 你们知道吗 然后冲出来一堆人一堆事 把我给毁了
-- Description: 古装Q版小姑娘，紫发双丸子垂髻，脸上带着泪痕和红晕，站在大雨里面无表情地直视镜头，头顶飘着一缕灰烟。
+- Description: 古装Q版小姑娘，蓝发双丸子垂髻，脸上有小腮红，站在大雨里面无表情地直视镜头。Valerie崩溃专用。
 - Tone: 被毁了、心累、生无可恋、控诉、委屈、被折腾坏了、事情太多、崩溃之后的平静、你干的好事、雨中凄凉
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/girl_rain_ruined.jpg
