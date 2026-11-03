@@ -746,3 +746,11 @@ A collection of reaction memes for use in conversations.
 - Description: 一只小猪崽裹在浅蓝色毛毯里被人托着，粉鼻子怼满整个镜头，眼睛闭着像睡着了。上面是一道选择题。
 - Tone: 求亲亲、求抱抱、索吻、关机、没电了、被冷落、要哄、撒娇、选择题、只有一个正确答案
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_shutdown_kiss_me.jpg
+
+### 我原本是一个特别可爱的人
+
+- File: `girl_rain_ruined.jpg`
+- Text: 我原本是一个特别可爱的人 你们知道吗 然后冲出来一堆人一堆事 把我给毁了
+- Description: 古装Q版小姑娘，紫发双丸子垂髻，脸上带着泪痕和红晕，站在大雨里面无表情地直视镜头，头顶飘着一缕灰烟。
+- Tone: 被毁了、心累、生无可恋、控诉、委屈、被折腾坏了、事情太多、崩溃之后的平静、你干的好事、雨中凄凉
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/girl_rain_ruined.jpg
