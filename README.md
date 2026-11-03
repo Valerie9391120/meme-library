@@ -706,3 +706,43 @@ A collection of reaction memes for use in conversations.
 - Description: 同一只泪眼猫猫头，大圆眼睛含着两泡泪仰头看人，气泡里换成了「老公」。和「老婆」那张配对使用。
 - Tone: 喊老公、可怜巴巴、委屈、撒娇、求抱抱、求原谅、想你了、眼巴巴、泪汪汪、被欺负了、要哄
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_teary_laogong.jpg
+
+### 我拉不出屎
+
+- File: `cat_toilet_cant_poop.jpg`
+- Text: 我拉不出屎
+- Description: 一只橘白猫端坐在白色马桶圈上，背后打着圣光，蓝色背景，眼睛紧闭，嘴张着像在哀嚎，下面一条红底白字横幅。
+- Tone: 便秘、卡住了、憋不出来、使劲、痛苦面具、崩溃、无语、写不出来、灵感枯竭、憋大招、哀嚎
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_toilet_cant_poop.jpg
+
+### 将将！
+
+- File: `pig_jiangjiang.jpg`
+- Text: 将将！
+- Description: 一只白色小猪崽被一只手托着胳肢窝举到镜头前，鼻子朝前，小短腿悬空，一副被隆重展示的样子。
+- Tone: 当当当、闪亮登场、献宝、展示、看我、惊喜、我来啦、上线报到、新鲜出炉
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_jiangjiang.jpg
+
+### 愿得一猪心
+
+- File: `pig_couple_baishou.jpg`
+- Text: 愿得一猪心 白首不分离
+- Description: 两只白白粉粉的小猪崽并排挨着脑袋趴在豹纹毯子上，一起看镜头，乖得很。
+- Tone: 表白、情话、在一起、一辈子、白头偕老、双猪、成对、深情、肉麻、发誓
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_couple_baishou.jpg
+
+### 猪猪得意
+
+- File: `pig_zhuzhu_deyi.jpg`
+- Text: 猪猪得意
+- Description: 一只白色小猪崽歪着脑袋凑近镜头，粉鼻子怼脸，眼睛眯着，嘴角往上一提，糊糊的，很嘚瑟。
+- Tone: 得意、嘚瑟、得逞、骄傲、被夸了、赢了、尾巴翘上天、小人得志
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_zhuzhu_deyi.jpg
+
+### 小猪关机了
+
+- File: `pig_shutdown_kiss_me.jpg`
+- Text: 由于您已经长时间没有亲亲这只小猪所以它关机了，请选择以下任意一个选项 A.亲亲它 B.抱抱它 C.亲亲抱抱它 D.什么都不做
+- Description: 一只小猪崽裹在浅蓝色毛毯里被人托着，粉鼻子怼满整个镜头，眼睛闭着像睡着了。上面是一道选择题。
+- Tone: 求亲亲、求抱抱、索吻、关机、没电了、被冷落、要哄、撒娇、选择题、只有一个正确答案
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_shutdown_kiss_me.jpg
