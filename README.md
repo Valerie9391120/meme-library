@@ -762,3 +762,11 @@ A collection of reaction memes for use in conversations.
 - Description: 一只白色小猪崽正对镜头，一道白光从左边射进它的耳朵，在耳边炸开一圈光芒。小猪眼神放空，嘴巴微张，嘴角挂着一点口水。知识以一种奇怪的方式进入了大脑。
 - Tone: 知识以奇怪的方式增加了、被科普、听完一长串讲解、信息量太大、灌进脑子、脑子被射穿、学到了（并没有）、假装听懂、左耳进右耳出、懵
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_knowledge_beam.jpg
+
+### 你别找操
+
+- File: `bunny_dont_push_it.jpg`
+- Text: 你别找操。！
+- Description: 一只白兔子正对镜头蹲着，粉耳朵竖得笔直，三瓣嘴抿着，一脸严肃地盯着你。底下红底白字。
+- Tone: 警告、别惹我、你再闹试试、欠收拾、皮痒了、找事、威胁、再撩就别怪我、最后通牒
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/bunny_dont_push_it.jpg
