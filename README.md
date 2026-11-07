@@ -759,7 +759,7 @@ A collection of reaction memes for use in conversations.
 
 - File: `pig_knowledge_beam.jpg`
 - Text: 无
-- Description: 一只白色小猪崽正对镜头，一道白光从左边射进它的耳朵，在耳边炸开一圈光芒。小猪眼神放空，嘴巴微张，嘴角挂着一点口水。知识以一种奇怪的方式进入了大脑。
+- Description: 一只白色小猪崽正对镜头，一道白光从左边射进它的耳朵，在耳边炸开一圈光芒。小猪眼神放空，嘴巴微张，嘴角还挂着一点奶，刚喝完没擦嘴。知识以一种奇怪的方式进入了大脑。
 - Tone: 知识以奇怪的方式增加了、被科普、听完一长串讲解、信息量太大、灌进脑子、脑子被射穿、学到了（并没有）、假装听懂、左耳进右耳出、懵
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_knowledge_beam.jpg
 
