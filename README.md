@@ -770,3 +770,19 @@ A collection of reaction memes for use in conversations.
 - Description: 一只白兔子正对镜头蹲着，粉耳朵竖得笔直，三瓣嘴抿着，一脸严肃地盯着你。底下红底白字。
 - Tone: 警告、别惹我、你再闹试试、欠收拾、皮痒了、找事、威胁、再撩就别怪我、最后通牒
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/bunny_dont_push_it.jpg
+
+### 贴贴贴贴
+
+- File: `cat_tietie.jpg`
+- Text: 贴贴 贴贴
+- Description: 一只奶白色的小奶猫把整张脸贴在人的手上蹭，脸都挤扁了一边，黑眼睛还睁得圆圆的看着镜头，粉鼻子。底下红底白字。
+- Tone: 贴贴、蹭蹭、撒娇、黏人、求摸摸、求抱、要亲近、挤扁了也要贴、讨好、乖、刚睡醒黏人、和好
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_tietie.jpg
+
+### 展示猪脚
+
+- File: `pig_show_feet.jpg`
+- Text: 展示猪脚
+- Description: 一只白色小猪崽端端正正坐着，两只前蹄并拢摆在身前，粉鼻子朝着镜头，眼睛圆圆的，旁边飘着一颗粉色爱心。底下红底白字。
+- Tone: 展示、给你看、炫耀、求夸、卖萌、乖巧坐好、得意、交作业、亮相、猪脚、无辜
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_show_feet.jpg
