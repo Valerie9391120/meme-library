@@ -786,3 +786,11 @@ A collection of reaction memes for use in conversations.
 - Description: 一只白色小猪崽端端正正坐着，两只前蹄并拢摆在身前，粉鼻子朝着镜头，眼睛圆圆的，旁边飘着一颗粉色爱心。底下红底白字。
 - Tone: 展示、给你看、炫耀、求夸、卖萌、乖巧坐好、得意、交作业、亮相、猪脚、无辜
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_show_feet.jpg
+
+### 挠一下
+
+- File: `pig_head_scratch.jpg`
+- Text: 无
+- Description: 一只白色小猪崽站在灰色的毛绒垫子上，正对镜头，一把小耙子（挠痒耙）从右上方伸过来挠在它脑门上。小猪站得笔直，眼神发直，舒服得不会动了。
+- Tone: 挠挠、摸摸头、犒赏、辛苦了、奖励、被顺毛、舒服、享受、乖乖站好、哄一下、夸夸、求挠
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_head_scratch.jpg
