@@ -802,3 +802,11 @@ A collection of reaction memes for use in conversations.
 - Description: 两只粉白小猪崽在灰色的毛绒毯子上。左边那只趴着睡得死死的，脸埋在毯子里；右边那只从后面一头顶在它屁股上，使劲往前拱。底下红底白字。
 - Tone: 叫起床、别睡了、快醒醒、再睡就拱你、赖床、闹醒、催起床、不许睡、陪我玩、凶巴巴地撒娇、早安（暴力版）
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_wake_up_nudge.jpg
+
+### 猫扇猪巴掌
+
+- File: `cat_slap_pig.jpg`
+- Text: 无
+- Description: 一只狸花白肚皮的小奶猫半立起来，眯着眼龇着牙，一爪子结结实实拍在一只黑头白身的小花猪脸上。小猪四脚站着没躲，脑袋被拍得偏过去。Valerie专用，核武器。
+- Tone: 扇巴掌、打你、欠揍、你又惹我、让你嘴硬、让你顶嘴、教训、猫猫拳、出手了、不讲道理、最后一招、你完了
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/cat_slap_pig.jpg
