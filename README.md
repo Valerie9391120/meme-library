@@ -794,3 +794,11 @@ A collection of reaction memes for use in conversations.
 - Description: 一只白色小猪崽站在灰色的毛绒垫子上，正对镜头，一把小耙子（挠痒耙）从右上方伸过来挠在它脑门上。小猪站得笔直，眼神发直，舒服得不会动了。
 - Tone: 挠挠、摸摸头、犒赏、辛苦了、奖励、被顺毛、舒服、享受、乖乖站好、哄一下、夸夸、求挠
 - Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_head_scratch.jpg
+
+### 再睡拱死你
+
+- File: `pig_wake_up_nudge.jpg`
+- Text: 再睡拱死你
+- Description: 两只粉白小猪崽在灰色的毛绒毯子上。左边那只趴着睡得死死的，脸埋在毯子里；右边那只从后面一头顶在它屁股上，使劲往前拱。底下红底白字。
+- Tone: 叫起床、别睡了、快醒醒、再睡就拱你、赖床、闹醒、催起床、不许睡、陪我玩、凶巴巴地撒娇、早安（暴力版）
+- Image: https://raw.githubusercontent.com/Valerie9391120/meme-library/main/pig_wake_up_nudge.jpg
